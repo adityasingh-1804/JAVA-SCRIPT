@@ -11,17 +11,19 @@
 // console.log("a * b = ",a*b);
 // console.log("a / b = ",a/b);
 // console.log("a % b = ",a%b);
-let number = prompt("Enter the number");
-console.log(number)
-if(number%5==0){
-    console.log("number is divisible by 5");
+// let number = prompt("Enter the number");
+// console.log(number)
+// if(number%5==0){
+//     console.log("number is divisible by 5");
 
+// }
+// else{
+//     console.log("numbver is not divisible by 5");
+// }
+
+for(let i = 0;  i <5; i++){
+    console.log("hi");
 }
-else{
-    console.log("numbver is not divisible by 5");
-}
-
-
 
 
 
