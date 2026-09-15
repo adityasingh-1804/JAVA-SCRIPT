@@ -21,10 +21,49 @@
 //     console.log("numbver is not divisible by 5");
 // }
 
-for(let i = 0;  i <5; i++){
-    console.log("hi");
-}
+// for(let i = 0;  i <5; i++){
+//     console.log("hi");
+// }
+//for off loop
+// let str = "Aditya singh"
+// let size =0;
+// for(let i of str){
+//     console.log("i=",i)
+//     size++;
+// }
+// console.log(size)
+
+
+// for.       in.        loop.    
+// print the keys only.
+
+// let student ={
+//     name: "aditya singh",
+//     age: 18,
+//     cgpa :9.22,
+// }
+// for(let i in student){
+//     console.log("key=",i);
+// }
+
+
+// Print all the number from 0 to 100
+// for(let i = 0; i <= 100; i=i+2){
+//     console.log(i);
+// }
+
+
+//game 
+// let gameNum=25;
+// let corrNum=prompt("enter the guess number");
+// while(gameNum!=corrNum){
+//     corrNum = prompt("you entered wrong number enter again");
+
+// }
+// console.log("you entered correct number");
 
 
 
-
+//string
+let str = "apna college";
+console.log(str[0]);
