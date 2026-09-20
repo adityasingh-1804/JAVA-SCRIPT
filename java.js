@@ -94,3 +94,15 @@
 // let str2 = "world";
 // console.log(str1.concat(str2));
 
+
+//replace str
+// let str = "i love india";
+// str = str.replace("i","t");
+// console.log(str);
+
+
+
+//practice question
+let name=prompt("Enter the user name");
+let username= "@" + name + (name.length);
+console.log(username);
