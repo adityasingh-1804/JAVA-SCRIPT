@@ -65,5 +65,32 @@
 
 
 //string
-let str = "apna college";
-console.log(str[0]);
+// let str = "apna college";
+// console.log(str[0]);
+
+
+//template literals
+// let specialstring="this is template literals";
+// console.log(specialstring);
+
+//Example of template literal
+// let obj = {
+//     item:"pen",
+//     price: 10,
+
+// };
+// let output = ' the cost of ${ obj  item }is ${obj price} rupees'
+
+
+
+//string methods in java script
+// 1. slicing 
+// let str = "012345";
+// console.log(str.slice(1,4));
+
+
+//2.concat
+// let str1 = "hello";
+// let str2 = "world";
+// console.log(str1.concat(str2));
+
