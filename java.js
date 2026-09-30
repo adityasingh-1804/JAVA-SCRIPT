@@ -103,6 +103,21 @@
 
 
 //practice question
-let name=prompt("Enter the user name");
-let username= "@" + name + (name.length);
-console.log(username);
+// let name=prompt("Enter the user name");
+// let username= "@" + name + (name.length);
+// console.log(username);
+
+
+
+// let a = 5;
+// let b = 10;
+// console.log(a&b);
+// console.log(a^b);
+// console.log(a|b);
+// console.log(b);
+
+
+//---LOOPS IN JAVA SCRIPT---
+for(let i = 0; i <= 10; i++){
+    console.log("apna college");
+}
