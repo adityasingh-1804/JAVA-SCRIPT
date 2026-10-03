@@ -10,13 +10,23 @@
 // }
 //---Average marks--
 
-let arr = [85,97,44,37,76,60];
-let n = arr.length;
-let sum = 0;
-let avg = 0;
-for(let i = 0; i < n; i++){
-    sum = sum + arr[i];
+// let arr = [85,97,44,37,76,60];
+// let n = arr.length;
+// let sum = 0;
+// let avg = 0;
+// for(let i = 0; i < n; i++){
+//     sum = sum + arr[i];
 
-}
-avg = sum / n;
-console.log(avg);
+// }
+// avg = sum / n;
+// console.log(avg);
+
+
+let arr= ["bloomberg","microsoft","uber","google","IBM","Netflix"];
+// arr.shift();
+// console.log(arr);
+arr.splice(2,1,"ola");
+console.log(arr);
+arr.push("amazon");
+console.log(arr); 
+
