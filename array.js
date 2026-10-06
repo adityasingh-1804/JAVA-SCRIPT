@@ -61,10 +61,19 @@
 // }
 //  countvowel("hello") 
 
-//for each loop
-let arr =[2,3,4,5];
-arr.forEach((val) =>{
-    console.log(val*val);
-})
+// //for each loop
+// let arr =[2,3,4,5];
+// arr.forEach((val) =>{
+//     console.log(val*val);
+// })
 
 
+// let a = 5;
+// let b = 6;
+// console.log(a+b);
+
+
+
+// let a = 4567;
+// var b = a/1000|0;
+// console.log(b);
