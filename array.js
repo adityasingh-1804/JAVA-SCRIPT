@@ -77,3 +77,6 @@
 // let a = 4567;
 // var b = a/1000|0;
 // console.log(b);
+
+
+let a = 25;
